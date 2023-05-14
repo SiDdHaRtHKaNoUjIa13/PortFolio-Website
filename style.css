@@ -8,20 +8,21 @@
 }
 body{
     background: #080808;
-    color: #fff;
+    color:white;
 
 
 }
 #header{
     width: 100%;
     height: 100vh;
-    background-image: url(img/background.png);
+    background-image: url(img/namaste.jpg);
     background-size: cover;
     background-position: center;
 
 }
 .container{
     padding: 5px 10%;
+    
 
 }
 nav{
@@ -68,7 +69,7 @@ nav ul li a:hover::after{
 }
 .header-text h1{
     font-size: 55px;
-    margin: 20px;
+    justify-content: left;
     font-family: 'Ubuntu', sans-serif;
 }
 .header-text h1 span{
